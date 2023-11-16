@@ -1,0 +1,1001 @@
+,Class 1,Class 2,Class 3,Class 4,Class 5,Class 6,Athlete,Chorus
+0,Chinese,Aero Engineering,English,Social Science,Chemistry,French,0,0
+1,English,Aero Engineering,Astro Engineering,Optimization,Chorus1,Chorus2,0,1
+2,English,History,Physics,Optimization,Social Science,Aero Engineering,1,0
+3,Algebra,Social Science,Aero Engineering,Chinese,Chemistry,Biology,1,0
+4,Chinese,Physics,Algebra,Political Science,English,Aero Engineering,0,0
+5,Optimization,Chinese,Biology,Aero Engineering,Astro Engineering,English,0,0
+6,Aero Engineering,Social Science,Chemistry,Algebra,History,Physics,0,0
+7,Chemistry,French,Chinese,Aero Engineering,Social Science,History,0,0
+8,Business,Machine Learning,Astro Engineering,Social Science,Physics,Spanish,0,0
+9,Chemistry,Machine Learning,French,Physics,Astro Engineering,Political Science,1,0
+10,Aero Engineering,Machine Learning,Chemistry,Chinese,Optimization,Physics,1,0
+11,Astro Engineering,Business,Biology,Spanish,Social Science,French,0,0
+12,Political Science,Chemistry,Astro Engineering,Chinese,Aero Engineering,Social Science,0,0
+13,Machine Learning,Chemistry,Physics,Chinese,Algebra,Astro Engineering,0,0
+14,Business,Machine Learning,Algebra,Optimization,History,Social Science,1,0
+15,Social Science,Aero Engineering,Algebra,Political Science,Astro Engineering,Chinese,0,0
+16,Chemistry,French,Machine Learning,Chinese,Spanish,English,0,0
+17,Physics,Astro Engineering,Chinese,Machine Learning,Chorus1,Chorus2,0,1
+18,History,Biology,Chinese,Machine Learning,Astro Engineering,English,1,0
+19,Social Science,French,History,Political Science,Machine Learning,Chemistry,1,0
+20,Optimization,Machine Learning,Political Science,Social Science,Chemistry,Aero Engineering,1,0
+21,Physics,Biology,Social Science,Aero Engineering,Spanish,French,0,0
+22,History,Business,Astro Engineering,Political Science,Spanish,Aero Engineering,1,0
+23,Optimization,Physics,Biology,History,Business,Chemistry,1,0
+24,Astro Engineering,Social Science,Algebra,Business,Chinese,Chemistry,0,0
+25,Spanish,Astro Engineering,Biology,Machine Learning,History,Algebra,0,0
+26,Spanish,Chinese,French,Optimization,Social Science,Machine Learning,1,0
+27,English,French,Machine Learning,Chinese,Political Science,Chemistry,0,0
+28,Optimization,French,Business,History,Aero Engineering,English,0,0
+29,Algebra,Physics,Political Science,Machine Learning,French,Spanish,0,0
+30,Business,Biology,History,English,Chorus1,Chorus2,0,1
+31,Social Science,Algebra,Spanish,Political Science,History,French,1,0
+32,Astro Engineering,Physics,Machine Learning,Social Science,Chorus1,Chorus2,0,1
+33,History,Algebra,Optimization,Chinese,Astro Engineering,Chemistry,0,0
+34,Political Science,History,Aero Engineering,Spanish,Biology,Chinese,0,0
+35,Social Science,Spanish,Astro Engineering,Optimization,French,Chinese,0,0
+36,English,Physics,Aero Engineering,Political Science,Biology,Optimization,1,0
+37,Chemistry,Biology,Machine Learning,French,Algebra,English,1,0
+38,Chemistry,History,Chinese,Machine Learning,Physics,Business,0,0
+39,Optimization,Spanish,English,Business,Physics,Biology,0,0
+40,French,Machine Learning,English,Social Science,Aero Engineering,Optimization,0,0
+41,Optimization,History,Social Science,Chinese,Chorus1,Chorus2,0,1
+42,Physics,Biology,History,Astro Engineering,Optimization,Chemistry,0,0
+43,Biology,Algebra,English,Aero Engineering,Chorus1,Chorus2,0,1
+44,Business,French,English,Algebra,Chorus1,Chorus2,0,1
+45,Aero Engineering,English,Political Science,Social Science,Optimization,Chemistry,0,0
+46,History,Physics,Optimization,Business,Chinese,English,0,0
+47,Aero Engineering,Algebra,Optimization,English,Biology,Physics,0,0
+48,French,Political Science,Aero Engineering,Spanish,Business,Chinese,0,0
+49,French,Algebra,Business,English,Social Science,Physics,0,0
+50,English,Biology,French,Political Science,History,Optimization,0,0
+51,French,Chemistry,Business,Algebra,History,Aero Engineering,0,0
+52,Biology,Optimization,Machine Learning,Chemistry,Physics,Spanish,0,0
+53,Biology,English,Machine Learning,Algebra,Spanish,Political Science,0,0
+54,Chinese,Business,English,Chemistry,Social Science,French,0,0
+55,French,Spanish,Astro Engineering,Optimization,Chorus1,Chorus2,0,1
+56,French,Spanish,Optimization,Machine Learning,Business,Chemistry,1,0
+57,English,Machine Learning,History,Physics,French,Political Science,0,0
+58,Political Science,English,Physics,Chemistry,Chorus1,Chorus2,0,1
+59,Optimization,English,French,Chemistry,Chorus1,Chorus2,0,1
+60,Machine Learning,Chemistry,Algebra,Aero Engineering,Chorus1,Chorus2,0,1
+61,Machine Learning,History,Astro Engineering,Biology,Algebra,French,0,0
+62,Optimization,Biology,Spanish,History,Chorus1,Chorus2,0,1
+63,Machine Learning,History,Biology,Astro Engineering,Spanish,Algebra,0,0
+64,Spanish,Chinese,Physics,Algebra,Biology,Astro Engineering,1,0
+65,French,English,Machine Learning,Biology,History,Spanish,0,0
+66,Political Science,Business,Machine Learning,English,Aero Engineering,Chemistry,0,0
+67,French,Chemistry,Business,Algebra,Physics,English,0,0
+68,Social Science,Aero Engineering,Chinese,Machine Learning,History,Chemistry,0,0
+69,Physics,Astro Engineering,Chinese,History,Chemistry,Business,0,0
+70,Astro Engineering,Spanish,Biology,Machine Learning,French,Business,0,0
+71,Optimization,Physics,Aero Engineering,French,History,Spanish,0,0
+72,Business,History,Optimization,English,Algebra,Spanish,1,0
+73,Chinese,Business,French,History,Physics,Optimization,0,0
+74,Optimization,Physics,History,Astro Engineering,Chinese,Social Science,0,0
+75,Business,Aero Engineering,French,Optimization,Algebra,History,0,0
+76,Astro Engineering,Chinese,French,Political Science,Chorus1,Chorus2,0,1
+77,Social Science,Algebra,Chinese,Physics,Business,English,0,0
+78,Business,English,Algebra,Political Science,Chemistry,Machine Learning,0,0
+79,History,Astro Engineering,Biology,English,Political Science,Business,0,0
+80,Optimization,Aero Engineering,French,Biology,Algebra,Machine Learning,1,0
+81,Business,French,Astro Engineering,Algebra,Physics,Political Science,0,0
+82,Social Science,French,Political Science,Algebra,Chorus1,Chorus2,0,1
+83,Social Science,Optimization,Physics,English,Business,Biology,0,0
+84,Biology,Astro Engineering,Aero Engineering,Optimization,Chorus1,Chorus2,0,1
+85,Algebra,Physics,Spanish,Chinese,Social Science,Biology,0,0
+86,Astro Engineering,Political Science,Machine Learning,French,Algebra,Aero Engineering,0,0
+87,Astro Engineering,Political Science,Algebra,Chinese,Chemistry,Optimization,0,0
+88,Social Science,English,Algebra,Political Science,Biology,Aero Engineering,0,0
+89,Biology,Business,Chemistry,Astro Engineering,Political Science,History,0,0
+90,Business,History,English,French,Optimization,Chinese,1,0
+91,Spanish,History,Astro Engineering,Algebra,Machine Learning,Optimization,0,0
+92,Astro Engineering,Optimization,Aero Engineering,Chinese,Social Science,French,1,0
+93,Biology,Political Science,Astro Engineering,English,Chorus1,Chorus2,0,1
+94,Physics,Astro Engineering,Chemistry,Social Science,Chorus1,Chorus2,0,1
+95,Astro Engineering,Chemistry,Political Science,Physics,French,English,1,0
+96,English,Machine Learning,Chinese,Algebra,Political Science,Business,0,0
+97,Chinese,Spanish,History,Political Science,Chorus1,Chorus2,0,1
+98,Biology,History,Physics,Aero Engineering,Chemistry,Chinese,1,0
+99,English,Chinese,Physics,Political Science,Chorus1,Chorus2,0,1
+100,Astro Engineering,Machine Learning,Social Science,Spanish,Algebra,Business,0,0
+101,Astro Engineering,History,French,Chinese,Algebra,Aero Engineering,0,0
+102,Biology,Algebra,Physics,Business,Chorus1,Chorus2,0,1
+103,Astro Engineering,Political Science,Algebra,Chemistry,Social Science,Aero Engineering,0,0
+104,English,Business,History,French,Spanish,Aero Engineering,0,0
+105,Chemistry,Political Science,Astro Engineering,Biology,History,Physics,0,0
+106,Chinese,French,Aero Engineering,Machine Learning,English,Spanish,0,0
+107,Business,Political Science,Astro Engineering,Machine Learning,Chemistry,Aero Engineering,0,0
+108,Chemistry,Business,English,Social Science,Spanish,History,0,0
+109,Spanish,Chinese,History,Business,Chorus1,Chorus2,0,1
+110,Social Science,French,Chinese,History,Optimization,Astro Engineering,0,0
+111,Algebra,Biology,Machine Learning,Physics,Chorus1,Chorus2,0,1
+112,Chemistry,Spanish,Biology,Algebra,Chorus1,Chorus2,0,1
+113,Business,Chinese,Spanish,French,Political Science,Biology,0,0
+114,Physics,Chemistry,Political Science,Algebra,Spanish,Optimization,1,0
+115,Astro Engineering,Biology,French,Aero Engineering,English,Social Science,0,0
+116,Chinese,Astro Engineering,Social Science,Algebra,Political Science,Optimization,1,0
+117,Physics,Spanish,Machine Learning,Chemistry,Optimization,Algebra,0,0
+118,Astro Engineering,Optimization,French,Spanish,English,Chinese,1,0
+119,Algebra,Business,Optimization,Physics,Astro Engineering,Chinese,0,0
+120,Chinese,Physics,Biology,Astro Engineering,English,French,0,0
+121,Algebra,Business,Aero Engineering,Astro Engineering,Chorus1,Chorus2,0,1
+122,History,Business,Algebra,Optimization,Physics,Chinese,0,0
+123,Political Science,Social Science,Optimization,Chemistry,Algebra,English,0,0
+124,Spanish,Physics,Algebra,Astro Engineering,Aero Engineering,Chemistry,1,0
+125,Algebra,Physics,Business,Machine Learning,French,Chemistry,0,0
+126,Physics,History,Biology,Chinese,Political Science,Algebra,0,0
+127,Physics,History,French,Algebra,Business,Political Science,0,0
+128,English,Chinese,Aero Engineering,Chemistry,Chorus1,Chorus2,0,1
+129,Machine Learning,Social Science,Chinese,Chemistry,Algebra,Political Science,0,0
+130,History,Political Science,Business,Optimization,Social Science,Spanish,0,0
+131,Machine Learning,History,Biology,Chinese,Astro Engineering,Physics,0,0
+132,History,Social Science,Aero Engineering,Astro Engineering,Optimization,Algebra,0,0
+133,English,French,Machine Learning,History,Astro Engineering,Business,0,0
+134,Aero Engineering,French,Algebra,History,Chorus1,Chorus2,0,1
+135,Political Science,Social Science,Biology,Optimization,Chorus1,Chorus2,0,1
+136,Chinese,Machine Learning,Physics,Chemistry,Chorus1,Chorus2,0,1
+137,Business,Physics,English,Chemistry,Chorus1,Chorus2,0,1
+138,History,Chinese,Algebra,Astro Engineering,English,French,1,0
+139,Physics,History,French,Algebra,Business,Spanish,0,0
+140,Algebra,Chemistry,Social Science,Biology,Business,Physics,0,0
+141,Algebra,Spanish,English,French,Political Science,Chemistry,0,0
+142,Algebra,Political Science,Optimization,Physics,Business,English,0,0
+143,History,French,Machine Learning,Chemistry,Chorus1,Chorus2,0,1
+144,Astro Engineering,Optimization,Business,History,Spanish,Biology,0,0
+145,English,Biology,French,History,Business,Optimization,1,0
+146,English,French,Physics,Astro Engineering,Chorus1,Chorus2,0,1
+147,Chinese,French,Spanish,Social Science,Chemistry,History,1,0
+148,Physics,Algebra,Spanish,Biology,Aero Engineering,Business,1,0
+149,English,Business,Political Science,Algebra,Machine Learning,Chemistry,0,0
+150,Aero Engineering,English,Algebra,Machine Learning,Spanish,History,0,0
+151,Physics,Business,History,Chemistry,English,Optimization,1,0
+152,Astro Engineering,Social Science,Chinese,English,French,Business,0,0
+153,French,Social Science,Business,Physics,Chorus1,Chorus2,0,1
+154,Astro Engineering,Chemistry,Biology,Aero Engineering,History,Optimization,1,0
+155,History,Social Science,Astro Engineering,Business,Aero Engineering,English,0,0
+156,English,Business,Chinese,Chemistry,Chorus1,Chorus2,0,1
+157,Chemistry,Physics,Astro Engineering,Machine Learning,History,English,0,0
+158,Political Science,Spanish,Machine Learning,Chinese,Biology,Chemistry,1,0
+159,Political Science,Chinese,Spanish,Machine Learning,Aero Engineering,Chemistry,1,0
+160,Political Science,French,Business,History,Chorus1,Chorus2,0,1
+161,Business,Aero Engineering,French,Optimization,Chorus1,Chorus2,0,1
+162,Spanish,English,Chinese,Astro Engineering,Algebra,Social Science,0,0
+163,Spanish,Aero Engineering,French,Machine Learning,Astro Engineering,History,0,0
+164,Aero Engineering,Optimization,Algebra,French,Spanish,Biology,1,0
+165,Aero Engineering,Optimization,Astro Engineering,Business,English,Machine Learning,1,0
+166,Aero Engineering,Chemistry,Social Science,Spanish,Chinese,History,0,0
+167,Algebra,Chemistry,Biology,History,Astro Engineering,Physics,0,0
+168,Chemistry,Machine Learning,Physics,Social Science,Spanish,Astro Engineering,0,0
+169,Algebra,English,Physics,Social Science,Chinese,Biology,1,0
+170,Political Science,Business,Astro Engineering,Chinese,French,Physics,0,0
+171,Social Science,Chinese,Machine Learning,Astro Engineering,Algebra,English,0,0
+172,Biology,Spanish,Machine Learning,Political Science,Chinese,Aero Engineering,0,0
+173,Political Science,English,Aero Engineering,French,Chemistry,Chinese,0,0
+174,Chemistry,Aero Engineering,Biology,English,Physics,French,0,0
+175,French,Social Science,Machine Learning,Algebra,Chorus1,Chorus2,0,1
+176,History,Astro Engineering,Optimization,Machine Learning,Chorus1,Chorus2,0,1
+177,Political Science,French,Astro Engineering,Spanish,Algebra,English,1,0
+178,French,Spanish,Biology,Aero Engineering,Chemistry,Business,1,0
+179,Astro Engineering,Political Science,Machine Learning,English,Chorus1,Chorus2,0,1
+180,Business,Chemistry,Biology,Spanish,Aero Engineering,French,1,0
+181,Chinese,Physics,Spanish,French,Machine Learning,Biology,1,0
+182,Physics,Chemistry,Social Science,Aero Engineering,Chorus1,Chorus2,0,1
+183,Business,Chemistry,Aero Engineering,Political Science,English,Physics,0,0
+184,Business,Chemistry,Algebra,Biology,Aero Engineering,Spanish,1,0
+185,Astro Engineering,Physics,Machine Learning,Chemistry,History,Political Science,0,0
+186,Chinese,Optimization,Business,Social Science,Spanish,Aero Engineering,0,0
+187,Political Science,French,Machine Learning,Physics,Chorus1,Chorus2,0,1
+188,Business,Optimization,Political Science,Social Science,Aero Engineering,Machine Learning,0,0
+189,Machine Learning,Physics,Social Science,Algebra,Chemistry,Political Science,0,0
+190,History,Machine Learning,Aero Engineering,Astro Engineering,Chinese,Business,0,0
+191,Chemistry,Chinese,History,Algebra,Biology,Physics,0,0
+192,Aero Engineering,Chemistry,Spanish,Physics,Chinese,History,0,0
+193,Chinese,Aero Engineering,Physics,Spanish,Chorus1,Chorus2,0,1
+194,History,Machine Learning,Astro Engineering,Physics,Algebra,Aero Engineering,0,0
+195,Business,History,Physics,Chemistry,Biology,Spanish,0,0
+196,Physics,Machine Learning,Astro Engineering,Business,History,English,1,0
+197,Optimization,Chinese,English,Social Science,Physics,Spanish,0,0
+198,Aero Engineering,Social Science,Algebra,Spanish,Business,English,0,0
+199,Biology,Social Science,Algebra,Physics,Chorus1,Chorus2,0,1
+200,Chinese,English,Business,Machine Learning,French,Optimization,1,0
+201,Biology,Social Science,Spanish,Algebra,Aero Engineering,Physics,1,0
+202,History,Biology,French,Spanish,Business,Aero Engineering,0,0
+203,Machine Learning,Social Science,Optimization,English,Spanish,Astro Engineering,0,0
+204,Algebra,Aero Engineering,Astro Engineering,English,Business,Chemistry,0,0
+205,Business,Astro Engineering,History,English,Aero Engineering,French,0,0
+206,Political Science,Aero Engineering,Algebra,Chemistry,Chinese,Physics,1,0
+207,Chinese,Business,History,Machine Learning,Astro Engineering,Chemistry,0,0
+208,Chemistry,Physics,Optimization,Spanish,Business,English,0,0
+209,Biology,Astro Engineering,Chemistry,English,Business,Spanish,1,0
+210,Machine Learning,Astro Engineering,Chinese,French,Aero Engineering,English,0,0
+211,Algebra,Chemistry,Machine Learning,Social Science,Physics,Chinese,0,0
+212,English,Machine Learning,Biology,Algebra,Chorus1,Chorus2,0,1
+213,History,Business,Astro Engineering,French,English,Chinese,0,0
+214,Astro Engineering,French,Biology,Optimization,Chorus1,Chorus2,0,1
+215,Political Science,French,Chinese,Business,Chorus1,Chorus2,0,1
+216,English,Algebra,Chemistry,French,Chinese,Machine Learning,0,0
+217,Biology,Optimization,French,Chemistry,Astro Engineering,Chinese,0,0
+218,Aero Engineering,Physics,Optimization,Business,Political Science,Chinese,0,0
+219,Social Science,Astro Engineering,Aero Engineering,Machine Learning,Optimization,Chemistry,0,0
+220,English,Astro Engineering,Aero Engineering,Physics,Machine Learning,French,1,0
+221,Physics,Optimization,Algebra,Chemistry,Astro Engineering,Spanish,0,0
+222,History,Spanish,Political Science,Optimization,Astro Engineering,English,1,0
+223,Business,Aero Engineering,Algebra,Biology,Chorus1,Chorus2,0,1
+224,English,Business,Chinese,Political Science,Social Science,Biology,0,0
+225,Spanish,History,Political Science,Algebra,Chinese,English,0,0
+226,Biology,Algebra,Social Science,Aero Engineering,Chorus1,Chorus2,0,1
+227,English,French,Social Science,Astro Engineering,History,Chemistry,1,0
+228,Algebra,Chinese,Machine Learning,Social Science,Physics,Business,0,0
+229,Machine Learning,Algebra,French,Political Science,Chorus1,Chorus2,0,1
+230,English,Social Science,Political Science,Astro Engineering,Business,Physics,0,0
+231,Chinese,Astro Engineering,Biology,Social Science,Chorus1,Chorus2,0,1
+232,Optimization,Biology,Spanish,Physics,English,Algebra,0,0
+233,Chinese,Social Science,Business,Biology,Algebra,Machine Learning,0,0
+234,English,Algebra,Chinese,History,Business,Chemistry,0,0
+235,Biology,Business,Machine Learning,English,Chinese,Political Science,0,0
+236,History,Machine Learning,English,Astro Engineering,Biology,Optimization,0,0
+237,Physics,Social Science,Aero Engineering,Biology,Astro Engineering,Chinese,1,0
+238,Business,Astro Engineering,Aero Engineering,Spanish,Chemistry,English,1,0
+239,History,French,Political Science,Aero Engineering,Optimization,Spanish,1,0
+240,Algebra,Aero Engineering,History,French,Biology,Chemistry,0,0
+241,Machine Learning,History,Social Science,Optimization,Chorus1,Chorus2,0,1
+242,History,Chemistry,French,Algebra,Political Science,Optimization,1,0
+243,Aero Engineering,Chemistry,Business,Optimization,English,Social Science,0,0
+244,Physics,Aero Engineering,Spanish,Chinese,Business,Social Science,0,0
+245,Chinese,Business,Optimization,French,Astro Engineering,Biology,1,0
+246,Chinese,Algebra,Biology,Business,Physics,English,1,0
+247,Algebra,Chemistry,Spanish,Physics,Chorus1,Chorus2,0,1
+248,Political Science,English,Aero Engineering,History,Physics,Spanish,0,0
+249,Chemistry,Political Science,Spanish,Physics,Astro Engineering,History,0,0
+250,Physics,Social Science,Astro Engineering,Machine Learning,Chorus1,Chorus2,0,1
+251,Optimization,Algebra,Political Science,Chinese,Chorus1,Chorus2,0,1
+252,Biology,Astro Engineering,Spanish,French,Political Science,History,0,0
+253,Optimization,History,Political Science,Astro Engineering,Algebra,Machine Learning,1,0
+254,English,Astro Engineering,History,Machine Learning,Spanish,Chemistry,0,0
+255,Chinese,Aero Engineering,Business,French,Chorus1,Chorus2,0,1
+256,Physics,Optimization,French,English,Biology,Aero Engineering,1,0
+257,Biology,Algebra,Social Science,Astro Engineering,Political Science,French,0,0
+258,Optimization,Machine Learning,English,French,Biology,Spanish,0,0
+259,Political Science,English,Machine Learning,Biology,Physics,History,0,0
+260,Optimization,Machine Learning,Spanish,Physics,English,Aero Engineering,0,0
+261,Astro Engineering,French,Political Science,Aero Engineering,Chorus1,Chorus2,0,1
+262,History,Social Science,Machine Learning,Physics,Chemistry,Optimization,1,0
+263,Chemistry,History,Aero Engineering,Chinese,French,Spanish,0,0
+264,Chemistry,Physics,History,Biology,Chorus1,Chorus2,0,1
+265,Aero Engineering,Spanish,Optimization,French,Physics,Astro Engineering,0,0
+266,Chemistry,Optimization,Physics,Algebra,Chinese,Aero Engineering,0,0
+267,Political Science,English,Optimization,Biology,Aero Engineering,Physics,1,0
+268,Business,English,Spanish,Optimization,Astro Engineering,French,0,0
+269,French,English,Political Science,Chinese,Spanish,Algebra,0,0
+270,Astro Engineering,Machine Learning,Chinese,Physics,Chorus1,Chorus2,0,1
+271,Optimization,Machine Learning,Astro Engineering,Political Science,Chorus1,Chorus2,0,1
+272,Optimization,Physics,Astro Engineering,Chinese,Machine Learning,English,0,0
+273,French,Business,Aero Engineering,English,Chorus1,Chorus2,0,1
+274,Physics,Astro Engineering,Aero Engineering,Algebra,Chorus1,Chorus2,0,1
+275,Aero Engineering,Biology,Chemistry,Social Science,Astro Engineering,English,0,0
+276,Social Science,Biology,History,Business,French,Political Science,1,0
+277,Aero Engineering,Machine Learning,Business,Chemistry,Chorus1,Chorus2,0,1
+278,Aero Engineering,Political Science,Astro Engineering,English,Chinese,French,0,0
+279,Chinese,Physics,Aero Engineering,Algebra,Astro Engineering,Political Science,0,0
+280,Aero Engineering,Biology,English,History,French,Spanish,1,0
+281,English,Spanish,Physics,Astro Engineering,Social Science,Machine Learning,0,0
+282,Social Science,Chemistry,Optimization,English,French,Spanish,1,0
+283,Chinese,History,Aero Engineering,Algebra,Machine Learning,Optimization,0,0
+284,Optimization,Physics,Social Science,Chemistry,French,Spanish,0,0
+285,Spanish,Physics,Chinese,Business,Astro Engineering,History,0,0
+286,Astro Engineering,English,History,Spanish,Machine Learning,Social Science,0,0
+287,Physics,Astro Engineering,Political Science,Spanish,Chorus1,Chorus2,0,1
+288,Social Science,Spanish,History,Astro Engineering,Political Science,Algebra,0,0
+289,English,Business,Spanish,Algebra,Machine Learning,Chemistry,0,0
+290,Business,Machine Learning,Optimization,Political Science,Spanish,Chemistry,0,0
+291,Aero Engineering,Spanish,Astro Engineering,History,Algebra,Machine Learning,0,0
+292,Spanish,Optimization,French,English,Aero Engineering,Astro Engineering,0,0
+293,Physics,Astro Engineering,Social Science,Spanish,Political Science,Chinese,0,0
+294,Chemistry,Political Science,Algebra,French,Chorus1,Chorus2,0,1
+295,Chemistry,Astro Engineering,Biology,French,Chorus1,Chorus2,0,1
+296,Physics,Astro Engineering,Chemistry,Spanish,Chorus1,Chorus2,0,1
+297,Astro Engineering,Aero Engineering,Optimization,History,Biology,Chemistry,0,0
+298,Astro Engineering,Biology,Business,Algebra,Chorus1,Chorus2,0,1
+299,Social Science,Machine Learning,Aero Engineering,Chemistry,Physics,Biology,1,0
+300,Optimization,Biology,Business,Algebra,Political Science,Machine Learning,0,0
+301,History,Astro Engineering,Chemistry,Business,Social Science,Chinese,0,0
+302,Aero Engineering,Biology,History,Machine Learning,Business,Political Science,0,0
+303,Astro Engineering,Aero Engineering,Political Science,Physics,Chorus1,Chorus2,0,1
+304,Algebra,Optimization,Business,English,Chorus1,Chorus2,0,1
+305,English,Optimization,Business,Algebra,Biology,Aero Engineering,0,0
+306,Chinese,Astro Engineering,Physics,Political Science,Machine Learning,English,0,0
+307,Spanish,Machine Learning,Social Science,Biology,Chorus1,Chorus2,0,1
+308,Business,Physics,Social Science,English,Machine Learning,Astro Engineering,0,0
+309,Astro Engineering,Machine Learning,English,Physics,Political Science,History,0,0
+310,Biology,Physics,Social Science,Astro Engineering,Chorus1,Chorus2,0,1
+311,Optimization,French,English,Business,Astro Engineering,History,0,0
+312,Chinese,Business,French,History,Spanish,Chemistry,0,0
+313,Aero Engineering,Chinese,Optimization,Machine Learning,History,Chemistry,0,0
+314,Machine Learning,French,History,Aero Engineering,Algebra,Optimization,0,0
+315,Physics,Chinese,Spanish,Chemistry,Aero Engineering,French,0,0
+316,Political Science,Algebra,Chinese,Social Science,Astro Engineering,English,1,0
+317,Political Science,Social Science,Biology,Machine Learning,Astro Engineering,Chinese,0,0
+318,Optimization,Social Science,Physics,Business,Chemistry,Political Science,1,0
+319,Aero Engineering,Optimization,Chemistry,English,Social Science,Spanish,1,0
+320,Chinese,Spanish,Physics,Business,History,Astro Engineering,0,0
+321,Business,Chinese,Machine Learning,Optimization,Chemistry,Biology,0,0
+322,Biology,Aero Engineering,Physics,Spanish,English,Optimization,1,0
+323,Astro Engineering,French,Spanish,Biology,English,Machine Learning,0,0
+324,Chinese,Business,Biology,Machine Learning,Social Science,Spanish,0,0
+325,Algebra,French,Astro Engineering,History,Biology,English,1,0
+326,Spanish,History,Chemistry,Astro Engineering,Business,Biology,1,0
+327,Spanish,Algebra,English,Astro Engineering,Business,Social Science,0,0
+328,Physics,History,English,Spanish,Optimization,Social Science,0,0
+329,Social Science,Aero Engineering,Business,Astro Engineering,Spanish,English,1,0
+330,Algebra,English,Spanish,Optimization,Aero Engineering,French,1,0
+331,Social Science,Machine Learning,Physics,Political Science,Chorus1,Chorus2,0,1
+332,Social Science,Spanish,Chemistry,French,Chorus1,Chorus2,0,1
+333,Optimization,Political Science,Chinese,Physics,Astro Engineering,French,0,0
+334,Astro Engineering,Algebra,Chemistry,Optimization,Business,French,1,0
+335,Aero Engineering,Astro Engineering,Social Science,History,French,Machine Learning,0,0
+336,Aero Engineering,Physics,Algebra,Biology,Social Science,Chinese,1,0
+337,History,Political Science,Spanish,Social Science,Biology,Business,0,0
+338,Business,Chemistry,English,Chinese,Chorus1,Chorus2,0,1
+339,Machine Learning,English,Social Science,Chemistry,Spanish,Biology,0,0
+340,English,Chemistry,Optimization,Chinese,Aero Engineering,Physics,1,0
+341,Aero Engineering,Biology,Chemistry,French,Chorus1,Chorus2,0,1
+342,Algebra,History,Chemistry,Spanish,French,Political Science,0,0
+343,Machine Learning,French,Chemistry,Astro Engineering,Biology,Business,1,0
+344,Business,Physics,Aero Engineering,English,Chemistry,Spanish,0,0
+345,Physics,Social Science,Algebra,Astro Engineering,Aero Engineering,French,0,0
+346,Biology,History,Optimization,Chinese,Chorus1,Chorus2,0,1
+347,Optimization,Political Science,History,Astro Engineering,Chemistry,Biology,1,0
+348,Physics,Political Science,Spanish,French,English,Algebra,0,0
+349,Spanish,Chinese,History,Machine Learning,Optimization,English,0,0
+350,Physics,Political Science,Spanish,Chinese,Social Science,Optimization,0,0
+351,Social Science,Algebra,Political Science,Biology,Astro Engineering,History,0,0
+352,Physics,Algebra,Machine Learning,Biology,Chorus1,Chorus2,0,1
+353,History,Chinese,Astro Engineering,Optimization,Physics,French,0,0
+354,Biology,English,Machine Learning,Optimization,History,Business,0,0
+355,History,Machine Learning,English,Business,Chorus1,Chorus2,0,1
+356,Chemistry,Algebra,History,Astro Engineering,Biology,English,0,0
+357,Astro Engineering,Physics,Chinese,English,Social Science,Algebra,1,0
+358,History,Political Science,Physics,English,Algebra,Biology,0,0
+359,Social Science,Physics,Machine Learning,English,French,Spanish,0,0
+360,Spanish,Chemistry,Social Science,French,Machine Learning,Physics,1,0
+361,Social Science,English,Biology,Optimization,Algebra,Spanish,0,0
+362,History,Physics,Biology,Business,Political Science,English,0,0
+363,Astro Engineering,Political Science,Business,Chinese,Spanish,Biology,1,0
+364,History,Optimization,French,Physics,Social Science,Chinese,0,0
+365,English,Aero Engineering,Business,Chinese,Biology,Algebra,0,0
+366,Biology,Physics,Aero Engineering,Astro Engineering,Political Science,Machine Learning,0,0
+367,Algebra,Spanish,Astro Engineering,History,Biology,Aero Engineering,0,0
+368,History,Spanish,Biology,Algebra,Chorus1,Chorus2,0,1
+369,Machine Learning,Physics,Astro Engineering,Political Science,Chemistry,Aero Engineering,0,0
+370,Social Science,Aero Engineering,Physics,Biology,Business,Chinese,0,0
+371,History,Chinese,Social Science,Aero Engineering,Chorus1,Chorus2,0,1
+372,Aero Engineering,Business,English,Optimization,Astro Engineering,Political Science,1,0
+373,Algebra,French,Optimization,Chemistry,Chorus1,Chorus2,0,1
+374,Political Science,English,Business,Physics,Aero Engineering,Biology,0,0
+375,Spanish,Optimization,Physics,Biology,Astro Engineering,French,0,0
+376,Business,Social Science,Biology,Physics,French,Chemistry,1,0
+377,Social Science,Astro Engineering,Spanish,Chemistry,Optimization,Physics,0,0
+378,Astro Engineering,Chemistry,Social Science,Aero Engineering,Business,Political Science,0,0
+379,Optimization,Chinese,English,Machine Learning,Astro Engineering,Biology,1,0
+380,History,Biology,English,Chemistry,Machine Learning,Business,0,0
+381,Political Science,Chemistry,Algebra,English,Optimization,Spanish,1,0
+382,Physics,Algebra,Chinese,English,History,Political Science,1,0
+383,Spanish,English,Social Science,Biology,Chorus1,Chorus2,0,1
+384,History,Chinese,Machine Learning,Algebra,Chemistry,French,0,0
+385,Chemistry,Political Science,Chinese,Social Science,Biology,Spanish,1,0
+386,History,Astro Engineering,Biology,French,Chorus1,Chorus2,0,1
+387,Algebra,English,Astro Engineering,Physics,Spanish,Optimization,1,0
+388,French,English,Chinese,Spanish,Optimization,Machine Learning,0,0
+389,Social Science,History,English,Chinese,Algebra,Physics,1,0
+390,Business,Physics,Chemistry,Spanish,Political Science,Social Science,1,0
+391,History,Social Science,English,Biology,Chorus1,Chorus2,0,1
+392,Algebra,Chinese,Political Science,Machine Learning,Chorus1,Chorus2,0,1
+393,Political Science,Chinese,Astro Engineering,Biology,Spanish,Social Science,1,0
+394,Optimization,French,Spanish,Physics,Chemistry,Biology,0,0
+395,Algebra,Chinese,Physics,Chemistry,Spanish,Political Science,1,0
+396,Aero Engineering,Spanish,Astro Engineering,French,English,Algebra,1,0
+397,Social Science,Physics,Machine Learning,Aero Engineering,English,Chemistry,0,0
+398,Business,Optimization,Algebra,Biology,French,History,0,0
+399,Business,Chinese,Astro Engineering,French,Political Science,Physics,0,0
+400,English,Algebra,Machine Learning,Astro Engineering,Chinese,Business,0,0
+401,Social Science,Optimization,French,English,Chemistry,Spanish,0,0
+402,History,Biology,English,Political Science,Chemistry,Business,0,0
+403,Astro Engineering,History,Algebra,Optimization,Chorus1,Chorus2,0,1
+404,Political Science,Machine Learning,Optimization,Chinese,Physics,Social Science,1,0
+405,Political Science,Astro Engineering,Aero Engineering,Chinese,French,Biology,1,0
+406,French,Astro Engineering,Spanish,Aero Engineering,Chemistry,History,1,0
+407,Machine Learning,English,Chinese,Political Science,Chorus1,Chorus2,0,1
+408,Machine Learning,History,French,Spanish,Political Science,Algebra,1,0
+409,Aero Engineering,Chemistry,English,Business,Chorus1,Chorus2,0,1
+410,History,Physics,Biology,Business,Chorus1,Chorus2,0,1
+411,Social Science,Aero Engineering,English,Optimization,History,Algebra,1,0
+412,Aero Engineering,Optimization,Chemistry,Political Science,Chorus1,Chorus2,0,1
+413,Optimization,Chemistry,Spanish,History,Chorus1,Chorus2,0,1
+414,Astro Engineering,Political Science,Spanish,Optimization,English,Chinese,0,0
+415,Optimization,Physics,English,Biology,Business,Chemistry,0,0
+416,Social Science,Chemistry,French,Physics,Chinese,Machine Learning,0,0
+417,History,Biology,Social Science,English,Physics,Aero Engineering,0,0
+418,Biology,Chemistry,Optimization,Political Science,Physics,French,0,0
+419,Social Science,Physics,Political Science,Optimization,Astro Engineering,Algebra,0,0
+420,Physics,Optimization,Business,Chinese,Aero Engineering,Machine Learning,1,0
+421,Algebra,Chemistry,Physics,English,Astro Engineering,History,0,0
+422,Business,Chinese,Optimization,English,Chorus1,Chorus2,0,1
+423,Chemistry,Physics,Spanish,Political Science,Machine Learning,Algebra,0,0
+424,Biology,Chemistry,Chinese,Algebra,History,Political Science,0,0
+425,Aero Engineering,Business,Optimization,French,Chorus1,Chorus2,0,1
+426,Political Science,Social Science,History,Optimization,English,Algebra,0,0
+427,Chemistry,Social Science,History,Astro Engineering,Physics,Business,0,0
+428,Algebra,Business,Physics,Optimization,Spanish,Machine Learning,0,0
+429,Physics,English,Optimization,Biology,Chorus1,Chorus2,0,1
+430,Aero Engineering,Machine Learning,Chinese,Social Science,French,Astro Engineering,0,0
+431,History,Algebra,Business,Aero Engineering,Political Science,Optimization,0,0
+432,Algebra,Spanish,Physics,Chemistry,English,Business,0,0
+433,Optimization,Algebra,Chinese,Physics,Biology,Aero Engineering,0,0
+434,Business,Astro Engineering,Spanish,Aero Engineering,Optimization,Chemistry,1,0
+435,Spanish,Astro Engineering,Chinese,Aero Engineering,Biology,Machine Learning,0,0
+436,Chinese,Optimization,Social Science,Astro Engineering,Chorus1,Chorus2,0,1
+437,French,Biology,Social Science,Aero Engineering,Machine Learning,Business,0,0
+438,Machine Learning,Astro Engineering,Spanish,Aero Engineering,Chorus1,Chorus2,0,1
+439,Astro Engineering,Optimization,English,Social Science,Biology,Aero Engineering,0,0
+440,Spanish,Algebra,Social Science,Chemistry,Biology,English,0,0
+441,English,Machine Learning,Spanish,Chinese,Astro Engineering,Social Science,0,0
+442,Political Science,Astro Engineering,Optimization,Machine Learning,Chorus1,Chorus2,0,1
+443,Chinese,Optimization,History,Astro Engineering,Algebra,Chemistry,0,0
+444,English,French,Chinese,Optimization,History,Astro Engineering,0,0
+445,Aero Engineering,Chinese,Astro Engineering,Social Science,Business,History,0,0
+446,Political Science,Machine Learning,Astro Engineering,Algebra,French,Chinese,0,0
+447,Chinese,Astro Engineering,Machine Learning,Spanish,History,Algebra,1,0
+448,Spanish,Aero Engineering,Optimization,Astro Engineering,Chorus1,Chorus2,0,1
+449,Algebra,Biology,Chemistry,English,Physics,French,0,0
+450,Social Science,Political Science,Machine Learning,French,Chinese,Business,0,0
+451,Optimization,Biology,Social Science,Political Science,Chorus1,Chorus2,0,1
+452,Biology,History,Aero Engineering,Political Science,Business,Physics,0,0
+453,Algebra,Biology,History,Chinese,Aero Engineering,Political Science,0,0
+454,English,Chemistry,Algebra,Business,Optimization,Chinese,1,0
+455,Social Science,Spanish,Optimization,Physics,Machine Learning,Chemistry,0,0
+456,Chemistry,Chinese,Optimization,Political Science,English,Spanish,0,0
+457,Spanish,Machine Learning,Business,Optimization,History,Physics,0,0
+458,Aero Engineering,History,Political Science,Biology,Algebra,Astro Engineering,0,0
+459,French,Astro Engineering,English,History,Physics,Algebra,0,0
+460,Chemistry,Optimization,French,Spanish,Chorus1,Chorus2,0,1
+461,Machine Learning,English,Aero Engineering,Social Science,Business,Biology,1,0
+462,Business,Chemistry,Chinese,Astro Engineering,Spanish,Social Science,0,0
+463,Business,Chinese,French,Spanish,Social Science,Optimization,0,0
+464,Aero Engineering,Astro Engineering,Chinese,Algebra,Physics,Biology,0,0
+465,French,Astro Engineering,History,Social Science,Chorus1,Chorus2,0,1
+466,Astro Engineering,Machine Learning,Optimization,Algebra,Biology,Chinese,0,0
+467,French,Astro Engineering,History,Spanish,Political Science,English,0,0
+468,English,Political Science,Social Science,Chinese,Physics,History,1,0
+469,Physics,Social Science,Optimization,Machine Learning,Chorus1,Chorus2,0,1
+470,History,Physics,Chinese,Astro Engineering,Chorus1,Chorus2,0,1
+471,Algebra,History,Optimization,Business,Aero Engineering,Spanish,0,0
+472,Spanish,Social Science,Optimization,Business,Political Science,French,1,0
+473,Business,Biology,Optimization,Aero Engineering,French,Social Science,0,0
+474,Political Science,Aero Engineering,Optimization,Business,Chorus1,Chorus2,0,1
+475,Optimization,Machine Learning,Political Science,French,Business,English,0,0
+476,Biology,French,Algebra,Spanish,History,Machine Learning,1,0
+477,Social Science,Biology,Aero Engineering,Astro Engineering,Spanish,Business,1,0
+478,Social Science,French,Biology,Chinese,Chorus1,Chorus2,0,1
+479,Algebra,Optimization,Physics,English,Astro Engineering,Business,0,0
+480,Chemistry,Machine Learning,French,Political Science,Chorus1,Chorus2,0,1
+481,Aero Engineering,Machine Learning,Spanish,Physics,Optimization,Algebra,0,0
+482,Optimization,Business,Astro Engineering,Chemistry,Chorus1,Chorus2,0,1
+483,Physics,Spanish,Algebra,Biology,Chorus1,Chorus2,0,1
+484,French,Spanish,Biology,Social Science,Business,Optimization,0,0
+485,Machine Learning,English,Spanish,Astro Engineering,Chorus1,Chorus2,0,1
+486,Optimization,Social Science,Algebra,Biology,Business,Physics,0,0
+487,Chemistry,English,Algebra,Machine Learning,Optimization,History,0,0
+488,Political Science,Algebra,English,Aero Engineering,Biology,Social Science,0,0
+489,English,Optimization,Chemistry,Algebra,Political Science,History,0,0
+490,Aero Engineering,Astro Engineering,Spanish,Optimization,Algebra,Biology,0,0
+491,Social Science,Biology,Spanish,Chinese,Machine Learning,Business,1,0
+492,Biology,Political Science,Machine Learning,Business,Algebra,Aero Engineering,1,0
+493,Physics,Business,Chinese,Spanish,Chorus1,Chorus2,0,1
+494,Social Science,History,Aero Engineering,Business,Spanish,Algebra,0,0
+495,French,Social Science,History,English,Physics,Aero Engineering,0,0
+496,French,Astro Engineering,Algebra,Political Science,Spanish,Machine Learning,0,0
+497,Spanish,Biology,Chinese,Physics,Political Science,English,0,0
+498,Social Science,Algebra,Political Science,Business,Astro Engineering,Optimization,1,0
+499,Spanish,Astro Engineering,French,Physics,Chorus1,Chorus2,0,1
+500,Business,Chemistry,Biology,Aero Engineering,English,Machine Learning,0,0
+501,Algebra,Astro Engineering,Chinese,Business,History,Aero Engineering,0,0
+502,Optimization,Chinese,English,Machine Learning,Physics,Algebra,0,0
+503,Chemistry,Machine Learning,Physics,Spanish,English,History,1,0
+504,English,Chinese,Political Science,Algebra,Aero Engineering,French,0,0
+505,Spanish,Social Science,History,Chinese,French,Physics,1,0
+506,Optimization,Chemistry,Astro Engineering,Aero Engineering,Chorus1,Chorus2,0,1
+507,Astro Engineering,Spanish,Machine Learning,Chemistry,Social Science,Biology,0,0
+508,Biology,Machine Learning,Chinese,Business,History,French,0,0
+509,Spanish,History,Optimization,English,Machine Learning,Biology,1,0
+510,Social Science,Biology,Physics,Optimization,Spanish,English,0,0
+511,Optimization,Business,Chemistry,Machine Learning,Political Science,Physics,1,0
+512,Chinese,Business,Physics,French,Chemistry,Algebra,0,0
+513,Aero Engineering,History,Biology,Spanish,Chorus1,Chorus2,0,1
+514,Chinese,Physics,History,Biology,Chorus1,Chorus2,0,1
+515,Astro Engineering,French,History,Physics,Business,Algebra,1,0
+516,History,Aero Engineering,Optimization,Social Science,Physics,Biology,0,0
+517,Machine Learning,Biology,Political Science,Physics,Chorus1,Chorus2,0,1
+518,Astro Engineering,Spanish,Machine Learning,French,English,Social Science,0,0
+519,Chinese,French,Algebra,Spanish,History,Social Science,0,0
+520,Optimization,Business,History,Chemistry,Algebra,Biology,1,0
+521,Aero Engineering,Algebra,Physics,English,Astro Engineering,Chinese,0,0
+522,Chemistry,English,Political Science,Astro Engineering,Optimization,French,1,0
+523,Machine Learning,Social Science,Optimization,Political Science,Algebra,Business,1,0
+524,Social Science,French,Spanish,Business,English,Machine Learning,0,0
+525,Physics,Social Science,Astro Engineering,Chemistry,French,History,1,0
+526,Spanish,Algebra,Aero Engineering,Chinese,Business,Social Science,1,0
+527,Business,Social Science,Aero Engineering,Biology,English,Optimization,1,0
+528,Algebra,Chemistry,Aero Engineering,Optimization,Astro Engineering,French,0,0
+529,Astro Engineering,Political Science,Social Science,Machine Learning,Biology,Aero Engineering,1,0
+530,Optimization,Political Science,Spanish,Biology,History,Chinese,0,0
+531,Machine Learning,Chinese,Astro Engineering,Social Science,Chorus1,Chorus2,0,1
+532,Business,History,Aero Engineering,Chemistry,Social Science,Biology,0,0
+533,Political Science,History,Biology,Optimization,Algebra,Spanish,1,0
+534,Business,Chinese,History,Aero Engineering,English,French,0,0
+535,Chinese,Biology,Optimization,Aero Engineering,French,Algebra,0,0
+536,English,Algebra,Business,Political Science,History,Biology,0,0
+537,Political Science,Algebra,Chinese,Physics,English,French,0,0
+538,Optimization,Physics,French,Machine Learning,Algebra,History,0,0
+539,Biology,Spanish,Business,Chemistry,Physics,Algebra,0,0
+540,Biology,Chinese,Machine Learning,Aero Engineering,Chemistry,Astro Engineering,1,0
+541,Algebra,Spanish,Business,English,Physics,Social Science,0,0
+542,Chemistry,Physics,Optimization,Astro Engineering,Chorus1,Chorus2,0,1
+543,Political Science,Social Science,Aero Engineering,Physics,History,English,0,0
+544,Spanish,Business,Optimization,Political Science,History,Physics,1,0
+545,Algebra,Optimization,Chinese,Astro Engineering,Biology,Chemistry,0,0
+546,Business,Astro Engineering,French,Chemistry,Political Science,Social Science,0,0
+547,Optimization,English,Physics,Aero Engineering,Business,French,1,0
+548,Physics,Astro Engineering,English,French,Business,Biology,0,0
+549,Chemistry,Astro Engineering,Social Science,Physics,Machine Learning,Optimization,0,0
+550,Physics,Optimization,Business,Social Science,Chemistry,French,0,0
+551,Algebra,Optimization,English,French,Chinese,Machine Learning,0,0
+552,Physics,Machine Learning,Business,Chemistry,Chinese,French,1,0
+553,Aero Engineering,Business,Chinese,English,Biology,History,0,0
+554,Social Science,French,Astro Engineering,English,Physics,Optimization,1,0
+555,Spanish,Aero Engineering,Optimization,Astro Engineering,English,Algebra,0,0
+556,English,Chemistry,Biology,Political Science,History,Astro Engineering,1,0
+557,Chinese,English,History,Physics,Chemistry,Political Science,1,0
+558,English,Astro Engineering,Chemistry,Machine Learning,Political Science,Spanish,1,0
+559,Chemistry,History,Optimization,Biology,Spanish,Political Science,1,0
+560,Optimization,Algebra,French,Astro Engineering,Biology,Machine Learning,1,0
+561,Social Science,Political Science,Optimization,Chemistry,English,Aero Engineering,0,0
+562,Political Science,Biology,French,Algebra,Optimization,History,1,0
+563,Aero Engineering,Astro Engineering,Social Science,Algebra,Machine Learning,Biology,0,0
+564,English,Spanish,Physics,Chinese,Biology,History,1,0
+565,Physics,Algebra,Optimization,French,Social Science,English,0,0
+566,Aero Engineering,Optimization,French,Machine Learning,Physics,Chinese,1,0
+567,Astro Engineering,Spanish,Biology,Optimization,History,Social Science,0,0
+568,Social Science,Optimization,Chinese,Biology,Chorus1,Chorus2,0,1
+569,Business,Algebra,Physics,History,Machine Learning,Political Science,1,0
+570,Business,Chinese,Machine Learning,Astro Engineering,Algebra,Optimization,0,0
+571,Chemistry,Physics,Biology,Machine Learning,French,Astro Engineering,0,0
+572,History,Machine Learning,Business,Aero Engineering,Spanish,Physics,1,0
+573,Biology,Algebra,English,Chemistry,Political Science,Physics,0,0
+574,Business,Physics,Aero Engineering,Algebra,History,Political Science,1,0
+575,Chinese,Algebra,Political Science,Physics,History,Optimization,0,0
+576,English,Optimization,Social Science,Biology,Chemistry,Machine Learning,0,0
+577,Optimization,French,English,Biology,Spanish,Astro Engineering,1,0
+578,Astro Engineering,Biology,Algebra,Physics,Chorus1,Chorus2,0,1
+579,English,Business,Biology,History,Chorus1,Chorus2,0,1
+580,Algebra,Astro Engineering,Spanish,Aero Engineering,Political Science,Chemistry,0,0
+581,Social Science,Spanish,Political Science,Chinese,Chorus1,Chorus2,0,1
+582,Aero Engineering,English,Biology,Machine Learning,Social Science,Political Science,0,0
+583,Algebra,Physics,History,French,Social Science,Spanish,0,0
+584,History,Political Science,Business,Physics,Chorus1,Chorus2,0,1
+585,Algebra,Chemistry,Political Science,Optimization,French,Aero Engineering,0,0
+586,French,Algebra,Astro Engineering,Business,History,Biology,0,0
+587,Chemistry,Social Science,Physics,Optimization,Chorus1,Chorus2,0,1
+588,Algebra,Optimization,Political Science,Biology,Aero Engineering,Astro Engineering,0,0
+589,Spanish,Aero Engineering,Astro Engineering,Optimization,Chinese,Social Science,0,0
+590,Social Science,Business,English,Chemistry,Chorus1,Chorus2,0,1
+591,Political Science,Optimization,Spanish,Business,Chinese,History,0,0
+592,French,Chinese,Aero Engineering,English,Algebra,Biology,0,0
+593,Chinese,Algebra,Spanish,History,English,Chemistry,0,0
+594,Business,Chemistry,Spanish,English,Algebra,History,1,0
+595,Spanish,Biology,Optimization,Business,Chemistry,French,0,0
+596,French,Spanish,Optimization,History,Aero Engineering,Physics,0,0
+597,History,Chemistry,Spanish,Chinese,Chorus1,Chorus2,0,1
+598,Algebra,History,Optimization,Social Science,Chorus1,Chorus2,0,1
+599,Political Science,Spanish,Astro Engineering,Business,Chorus1,Chorus2,0,1
+600,Business,Machine Learning,Astro Engineering,Chemistry,History,Physics,1,0
+601,Optimization,Spanish,History,Chemistry,Algebra,Machine Learning,1,0
+602,French,Physics,Astro Engineering,English,Chorus1,Chorus2,0,1
+603,Algebra,Business,English,Optimization,Chorus1,Chorus2,0,1
+604,History,Optimization,Astro Engineering,Biology,Machine Learning,Aero Engineering,1,0
+605,Political Science,Chinese,Physics,Social Science,Chorus1,Chorus2,0,1
+606,Algebra,Chinese,Biology,Social Science,Physics,Political Science,1,0
+607,Chinese,Optimization,History,English,Social Science,French,0,0
+608,Political Science,Social Science,Machine Learning,Astro Engineering,Algebra,Chinese,1,0
+609,History,Political Science,Spanish,Optimization,Chorus1,Chorus2,0,1
+610,English,Machine Learning,Biology,History,Chemistry,Spanish,0,0
+611,Astro Engineering,Optimization,Machine Learning,Chinese,Business,Biology,0,0
+612,Algebra,English,Physics,Astro Engineering,Optimization,Biology,0,0
+613,Aero Engineering,Machine Learning,Biology,Optimization,History,Astro Engineering,0,0
+614,History,Astro Engineering,Political Science,Algebra,Business,French,0,0
+615,Machine Learning,Chinese,Chemistry,Algebra,Chorus1,Chorus2,0,1
+616,Algebra,Biology,Machine Learning,Optimization,Chorus1,Chorus2,0,1
+617,Chemistry,Astro Engineering,Algebra,Business,Aero Engineering,Machine Learning,0,0
+618,Biology,Social Science,Astro Engineering,Algebra,Chinese,Physics,0,0
+619,Biology,French,Physics,Business,Social Science,English,0,0
+620,English,Machine Learning,Algebra,Aero Engineering,Optimization,Astro Engineering,0,0
+621,English,Astro Engineering,History,Chinese,Biology,Machine Learning,0,0
+622,French,Aero Engineering,Social Science,Physics,Chorus1,Chorus2,0,1
+623,Machine Learning,Chinese,Business,Biology,Social Science,Physics,0,0
+624,Chinese,Aero Engineering,Optimization,Biology,Chorus1,Chorus2,0,1
+625,English,Aero Engineering,Algebra,Social Science,Machine Learning,Biology,0,0
+626,Astro Engineering,History,Chinese,Machine Learning,Chorus1,Chorus2,0,1
+627,Physics,French,History,English,Algebra,Aero Engineering,0,0
+628,Optimization,Algebra,Chemistry,Biology,English,Physics,0,0
+629,Biology,Chinese,Algebra,Optimization,Chorus1,Chorus2,0,1
+630,Algebra,History,Political Science,French,English,Machine Learning,0,0
+631,Chemistry,Physics,Chinese,English,History,Business,1,0
+632,Physics,English,Chemistry,Biology,Chorus1,Chorus2,0,1
+633,Optimization,Business,Spanish,Machine Learning,Social Science,History,0,0
+634,Machine Learning,Algebra,History,Spanish,Business,Optimization,0,0
+635,Machine Learning,Business,Biology,History,Aero Engineering,English,0,0
+636,Social Science,Machine Learning,Optimization,Spanish,History,Chinese,1,0
+637,History,French,Business,Biology,Chorus1,Chorus2,0,1
+638,Business,Aero Engineering,Astro Engineering,Chemistry,Social Science,Algebra,1,0
+639,Aero Engineering,Business,Chinese,Spanish,Chorus1,Chorus2,0,1
+640,Social Science,Physics,Political Science,Chinese,Chorus1,Chorus2,0,1
+641,Business,Chinese,Physics,Biology,Chorus1,Chorus2,0,1
+642,Aero Engineering,History,Optimization,Chemistry,Physics,Spanish,0,0
+643,History,Machine Learning,Physics,French,Social Science,Biology,0,0
+644,Physics,Chemistry,Optimization,Social Science,Aero Engineering,English,1,0
+645,English,History,Biology,French,Business,Astro Engineering,0,0
+646,Algebra,French,Machine Learning,Astro Engineering,Chorus1,Chorus2,0,1
+647,Spanish,Political Science,Business,English,Chorus1,Chorus2,0,1
+648,French,Biology,Chinese,Machine Learning,Chemistry,Algebra,0,0
+649,Machine Learning,Chemistry,Business,Social Science,History,Spanish,0,0
+650,Optimization,Biology,Chinese,Business,Aero Engineering,History,1,0
+651,Algebra,Optimization,English,Business,Aero Engineering,Machine Learning,0,0
+652,Political Science,History,Algebra,English,Spanish,French,0,0
+653,Astro Engineering,Chemistry,Algebra,Social Science,Business,Chinese,0,0
+654,History,Algebra,Business,Social Science,Machine Learning,Spanish,0,0
+655,Social Science,French,Algebra,Biology,Physics,English,0,0
+656,Business,Chinese,Physics,French,Chemistry,Biology,0,0
+657,History,Optimization,Social Science,Political Science,Business,Physics,1,0
+658,French,Physics,Spanish,History,Optimization,Chemistry,1,0
+659,Business,Chemistry,Political Science,Spanish,Chorus1,Chorus2,0,1
+660,Optimization,Physics,Aero Engineering,French,Astro Engineering,Chemistry,0,0
+661,Algebra,Spanish,Business,French,Chorus1,Chorus2,0,1
+662,Social Science,Optimization,Business,Chemistry,English,Algebra,0,0
+663,Machine Learning,Political Science,Chinese,Algebra,English,History,0,0
+664,Algebra,Optimization,History,Chinese,Chorus1,Chorus2,0,1
+665,Chemistry,Chinese,Aero Engineering,Astro Engineering,Business,Spanish,0,0
+666,Political Science,History,Astro Engineering,Optimization,Chemistry,Machine Learning,0,0
+667,Algebra,English,Machine Learning,History,Physics,Social Science,1,0
+668,English,Biology,Machine Learning,Optimization,French,Aero Engineering,0,0
+669,Chemistry,Spanish,Political Science,Machine Learning,English,Astro Engineering,0,0
+670,Machine Learning,Social Science,Astro Engineering,Aero Engineering,Optimization,Business,0,0
+671,Astro Engineering,Chemistry,Aero Engineering,Machine Learning,Political Science,Optimization,0,0
+672,Algebra,Chemistry,Business,Political Science,Astro Engineering,Spanish,0,0
+673,Business,Machine Learning,Chemistry,Biology,Aero Engineering,Algebra,0,0
+674,Spanish,Social Science,Chinese,Algebra,Biology,Machine Learning,0,0
+675,French,Machine Learning,Chemistry,English,Algebra,Social Science,0,0
+676,Astro Engineering,Political Science,English,Aero Engineering,Chorus1,Chorus2,0,1
+677,French,Political Science,Chemistry,Spanish,Astro Engineering,Social Science,0,0
+678,English,Business,Biology,Political Science,Spanish,Optimization,1,0
+679,Machine Learning,Biology,English,Spanish,French,Optimization,0,0
+680,French,Machine Learning,Social Science,English,Astro Engineering,Aero Engineering,1,0
+681,French,Spanish,History,Physics,Biology,English,0,0
+682,Political Science,Machine Learning,History,Chinese,Biology,French,0,0
+683,Spanish,Chemistry,Chinese,Astro Engineering,Chorus1,Chorus2,0,1
+684,Physics,Biology,Chemistry,Astro Engineering,Machine Learning,Spanish,0,0
+685,Chinese,Biology,Astro Engineering,Aero Engineering,History,English,0,0
+686,Chemistry,Business,Machine Learning,Social Science,History,Astro Engineering,0,0
+687,English,Chemistry,Business,Aero Engineering,Chinese,Biology,1,0
+688,Biology,History,Astro Engineering,Chinese,Business,Optimization,0,0
+689,Political Science,History,Chinese,Physics,Social Science,Optimization,0,0
+690,Political Science,Chinese,History,Spanish,Optimization,Machine Learning,0,0
+691,Physics,Chinese,Aero Engineering,Political Science,Machine Learning,French,1,0
+692,History,Business,English,Biology,Chorus1,Chorus2,0,1
+693,Political Science,Machine Learning,Physics,French,Chinese,Social Science,1,0
+694,Astro Engineering,French,History,Algebra,Physics,Chemistry,1,0
+695,Algebra,Physics,Aero Engineering,Social Science,Chemistry,Biology,0,0
+696,Physics,Social Science,Chemistry,Aero Engineering,Chinese,Machine Learning,0,0
+697,Machine Learning,Chinese,English,Chemistry,Business,Astro Engineering,1,0
+698,Astro Engineering,Aero Engineering,Spanish,Chinese,English,Chemistry,0,0
+699,Optimization,Business,French,Machine Learning,Astro Engineering,Chinese,0,0
+700,Machine Learning,Business,Algebra,Astro Engineering,History,English,0,0
+701,Algebra,Machine Learning,Astro Engineering,Chemistry,Optimization,Chinese,1,0
+702,Aero Engineering,French,Political Science,English,Business,Chinese,0,0
+703,History,French,English,Machine Learning,Biology,Chemistry,1,0
+704,Chinese,Business,Algebra,Spanish,History,Biology,0,0
+705,Biology,History,Machine Learning,Astro Engineering,French,Physics,1,0
+706,Chinese,Machine Learning,Chemistry,History,Political Science,Social Science,1,0
+707,Political Science,Social Science,Machine Learning,Spanish,Business,Chinese,0,0
+708,Political Science,Machine Learning,Optimization,Physics,English,Chinese,0,0
+709,Spanish,Biology,Chinese,French,Business,History,0,0
+710,Optimization,French,History,Chinese,Political Science,Spanish,0,0
+711,Social Science,Spanish,Aero Engineering,Algebra,Chorus1,Chorus2,0,1
+712,Spanish,English,Chemistry,Machine Learning,Astro Engineering,Aero Engineering,0,0
+713,Social Science,Algebra,French,Business,Biology,Physics,0,0
+714,Aero Engineering,Biology,English,Physics,Algebra,Political Science,0,0
+715,Chemistry,Machine Learning,French,English,Astro Engineering,History,0,0
+716,English,Aero Engineering,Physics,French,Political Science,Optimization,1,0
+717,Astro Engineering,Biology,Business,History,Aero Engineering,Algebra,0,0
+718,English,Social Science,Algebra,Biology,Business,Spanish,1,0
+719,English,Spanish,Algebra,Biology,Chemistry,Business,0,0
+720,Optimization,Chemistry,Chinese,Political Science,Physics,Spanish,0,0
+721,English,Social Science,Chinese,History,Astro Engineering,Algebra,0,0
+722,French,Biology,Chinese,Aero Engineering,Chemistry,History,0,0
+723,Optimization,Physics,Chinese,Political Science,Algebra,Spanish,0,0
+724,Machine Learning,Optimization,Business,Spanish,Chemistry,History,0,0
+725,Chemistry,History,Social Science,Machine Learning,Biology,French,0,0
+726,Astro Engineering,Spanish,Biology,Machine Learning,Aero Engineering,Business,0,0
+727,Algebra,Biology,Business,Spanish,Political Science,Physics,0,0
+728,Physics,Spanish,Chemistry,Business,Chorus1,Chorus2,0,1
+729,Spanish,Algebra,Machine Learning,English,Social Science,French,0,0
+730,Physics,Chemistry,Political Science,Algebra,English,Social Science,0,0
+731,Chemistry,Astro Engineering,Optimization,Algebra,Business,Aero Engineering,1,0
+732,Spanish,Business,Chemistry,Algebra,Chorus1,Chorus2,0,1
+733,Aero Engineering,Machine Learning,Political Science,Business,Chorus1,Chorus2,0,1
+734,Optimization,Political Science,Astro Engineering,Business,Chorus1,Chorus2,0,1
+735,Chinese,Algebra,Chemistry,Physics,Social Science,Optimization,0,0
+736,Aero Engineering,Machine Learning,Biology,Social Science,History,Spanish,1,0
+737,Aero Engineering,Physics,Business,Political Science,Spanish,English,1,0
+738,Spanish,Business,Political Science,History,Chemistry,Machine Learning,1,0
+739,French,Aero Engineering,Optimization,Chinese,Biology,History,0,0
+740,Spanish,Aero Engineering,Astro Engineering,Optimization,English,Machine Learning,1,0
+741,Algebra,Biology,Chinese,Political Science,Social Science,Chemistry,0,0
+742,Machine Learning,Algebra,Optimization,Chinese,Business,History,1,0
+743,Machine Learning,Optimization,French,Algebra,Business,Political Science,0,0
+744,French,English,Physics,Optimization,Aero Engineering,Astro Engineering,1,0
+745,Chinese,Spanish,Physics,English,Chemistry,French,0,0
+746,Chinese,Aero Engineering,Astro Engineering,Spanish,Social Science,Physics,0,0
+747,Astro Engineering,Machine Learning,English,Chinese,Political Science,History,0,0
+748,Algebra,Chemistry,Business,Physics,Chorus1,Chorus2,0,1
+749,French,English,Aero Engineering,Biology,Spanish,Political Science,1,0
+750,Chemistry,History,Astro Engineering,Political Science,Spanish,Aero Engineering,1,0
+751,Social Science,Physics,Political Science,Business,Optimization,Astro Engineering,0,0
+752,Spanish,French,Astro Engineering,Aero Engineering,Physics,Business,0,0
+753,Business,Political Science,Chinese,Optimization,History,Algebra,0,0
+754,Political Science,Chinese,Aero Engineering,French,Business,Physics,1,0
+755,Social Science,Business,English,Chinese,Algebra,Machine Learning,0,0
+756,Astro Engineering,Biology,Machine Learning,English,Algebra,Optimization,1,0
+757,Biology,Physics,Political Science,Optimization,Chorus1,Chorus2,0,1
+758,French,Political Science,Social Science,Machine Learning,Chorus1,Chorus2,0,1
+759,Physics,Aero Engineering,Chinese,French,Social Science,Astro Engineering,0,0
+760,Chemistry,Physics,Spanish,Astro Engineering,Chinese,English,0,0
+761,Biology,Algebra,Machine Learning,Business,Spanish,Chemistry,0,0
+762,Machine Learning,Physics,French,Algebra,Political Science,Business,0,0
+763,Chemistry,Aero Engineering,French,Biology,Optimization,Algebra,0,0
+764,Machine Learning,Chemistry,Astro Engineering,Biology,Chorus1,Chorus2,0,1
+765,Biology,Chemistry,Physics,Political Science,English,French,0,0
+766,Optimization,Social Science,Astro Engineering,Machine Learning,Biology,Physics,0,0
+767,Chinese,History,Business,Aero Engineering,Chorus1,Chorus2,0,1
+768,English,Algebra,Political Science,Astro Engineering,Chorus1,Chorus2,0,1
+769,Political Science,Astro Engineering,English,Biology,Machine Learning,Physics,0,0
+770,Aero Engineering,Spanish,French,Business,English,Astro Engineering,1,0
+771,Physics,Social Science,Chinese,Algebra,French,Chemistry,0,0
+772,Chinese,Spanish,Biology,French,English,Social Science,0,0
+773,Optimization,Aero Engineering,Business,Political Science,Spanish,Physics,0,0
+774,Optimization,Aero Engineering,Physics,French,Chorus1,Chorus2,0,1
+775,Machine Learning,History,English,Optimization,Social Science,French,0,0
+776,Algebra,French,Physics,Business,Optimization,Aero Engineering,0,0
+777,Political Science,Spanish,Chinese,English,Aero Engineering,French,1,0
+778,Political Science,Chinese,Machine Learning,Aero Engineering,Algebra,Astro Engineering,0,0
+779,History,Optimization,Astro Engineering,English,Chorus1,Chorus2,0,1
+780,English,Algebra,Astro Engineering,Spanish,Chorus1,Chorus2,0,1
+781,Astro Engineering,Machine Learning,Algebra,Physics,Spanish,Chemistry,0,0
+782,Physics,Chemistry,Political Science,Machine Learning,Algebra,English,1,0
+783,French,Chinese,Chemistry,Machine Learning,English,Optimization,1,0
+784,Algebra,Machine Learning,Aero Engineering,Astro Engineering,English,History,1,0
+785,Astro Engineering,Aero Engineering,History,French,Machine Learning,English,1,0
+786,Astro Engineering,French,Biology,Chemistry,Chorus1,Chorus2,0,1
+787,Astro Engineering,English,Political Science,Chemistry,Biology,Aero Engineering,0,0
+788,English,Astro Engineering,Chemistry,Political Science,History,Chinese,0,0
+789,Astro Engineering,Machine Learning,Spanish,Chemistry,History,Biology,1,0
+790,Optimization,Algebra,Chemistry,Biology,Chinese,Aero Engineering,1,0
+791,English,Algebra,Optimization,Business,Chemistry,Social Science,0,0
+792,Algebra,Optimization,Business,Political Science,History,French,0,0
+793,Machine Learning,Social Science,Business,Optimization,Physics,English,0,0
+794,Biology,Spanish,English,Optimization,Chorus1,Chorus2,0,1
+795,Optimization,Business,Machine Learning,Social Science,Chemistry,Physics,0,0
+796,French,Aero Engineering,Spanish,Machine Learning,Optimization,Business,1,0
+797,Aero Engineering,Physics,Chinese,Social Science,Chorus1,Chorus2,0,1
+798,French,Political Science,Chinese,Biology,Chorus1,Chorus2,0,1
+799,Optimization,Physics,Algebra,Spanish,Aero Engineering,Machine Learning,0,0
+800,Business,Machine Learning,Biology,History,Astro Engineering,English,0,0
+801,Algebra,Social Science,Spanish,Chemistry,Aero Engineering,Optimization,0,0
+802,Optimization,Astro Engineering,Algebra,English,Chinese,Physics,0,0
+803,Chemistry,English,Biology,Business,Aero Engineering,French,0,0
+804,English,Algebra,Business,Machine Learning,Aero Engineering,Astro Engineering,0,0
+805,Chinese,Machine Learning,Physics,Business,Aero Engineering,Political Science,1,0
+806,Optimization,Machine Learning,French,Spanish,Algebra,English,0,0
+807,Chemistry,Spanish,Biology,Algebra,History,English,1,0
+808,French,Spanish,Chemistry,Business,Aero Engineering,Physics,1,0
+809,Political Science,Social Science,Chemistry,Business,Machine Learning,Chinese,0,0
+810,Optimization,Spanish,Physics,Machine Learning,Chorus1,Chorus2,0,1
+811,Chinese,Social Science,Astro Engineering,English,History,Physics,0,0
+812,English,Spanish,French,History,Business,Algebra,0,0
+813,Algebra,Chemistry,Social Science,Business,Chorus1,Chorus2,0,1
+814,Algebra,History,French,Social Science,Astro Engineering,Machine Learning,1,0
+815,Chemistry,Algebra,French,Astro Engineering,Optimization,Physics,0,0
+816,Business,Spanish,Physics,Optimization,English,Machine Learning,1,0
+817,Physics,Aero Engineering,Spanish,English,Machine Learning,Astro Engineering,0,0
+818,Astro Engineering,Algebra,Chemistry,History,Optimization,Business,0,0
+819,Business,Machine Learning,Spanish,Political Science,Chorus1,Chorus2,0,1
+820,Business,English,Algebra,History,Optimization,Spanish,0,0
+821,Spanish,Biology,Social Science,Business,French,Aero Engineering,0,0
+822,Optimization,Social Science,History,Chemistry,Physics,Political Science,0,0
+823,Algebra,Biology,Business,Astro Engineering,Chorus1,Chorus2,0,1
+824,Astro Engineering,Spanish,Political Science,English,History,Chinese,0,0
+825,Business,French,Astro Engineering,Chemistry,Spanish,Chinese,1,0
+826,History,Algebra,Chemistry,French,Astro Engineering,Machine Learning,1,0
+827,Chinese,Spanish,Political Science,Optimization,Chorus1,Chorus2,0,1
+828,Chemistry,Aero Engineering,English,Physics,Business,Spanish,0,0
+829,Social Science,Machine Learning,Physics,Business,English,Algebra,0,0
+830,Social Science,Spanish,Machine Learning,Astro Engineering,Optimization,History,0,0
+831,History,Algebra,Machine Learning,Aero Engineering,Chorus1,Chorus2,0,1
+832,Business,Optimization,Political Science,Spanish,Algebra,Chinese,1,0
+833,Physics,Optimization,Astro Engineering,Algebra,Machine Learning,French,0,0
+834,Business,Spanish,Chemistry,Chinese,Chorus1,Chorus2,0,1
+835,French,Machine Learning,Algebra,Spanish,English,Business,0,0
+836,Optimization,History,Astro Engineering,Physics,Algebra,Business,0,0
+837,Business,Algebra,Chemistry,Aero Engineering,Chinese,Astro Engineering,1,0
+838,History,Business,Political Science,Machine Learning,Chorus1,Chorus2,0,1
+839,Optimization,History,Chemistry,Physics,Chorus1,Chorus2,0,1
+840,Biology,French,Optimization,English,Machine Learning,Physics,0,0
+841,Business,Biology,Aero Engineering,Astro Engineering,Physics,Optimization,0,0
+842,Optimization,Political Science,Aero Engineering,Chemistry,Chorus1,Chorus2,0,1
+843,Political Science,Algebra,Optimization,Chinese,Chorus1,Chorus2,0,1
+844,Astro Engineering,Chinese,Aero Engineering,Social Science,Biology,English,0,0
+845,Aero Engineering,Social Science,Machine Learning,French,Optimization,Astro Engineering,0,0
+846,Physics,French,Aero Engineering,Political Science,Machine Learning,Astro Engineering,1,0
+847,French,Social Science,Chemistry,Machine Learning,Business,Biology,0,0
+848,Chemistry,Political Science,Aero Engineering,Astro Engineering,Chorus1,Chorus2,0,1
+849,Physics,Biology,Aero Engineering,Algebra,Chorus1,Chorus2,0,1
+850,Business,Astro Engineering,Algebra,Aero Engineering,Social Science,Chemistry,0,0
+851,Political Science,History,Chinese,Optimization,Chorus1,Chorus2,0,1
+852,Spanish,Aero Engineering,Biology,History,Optimization,French,1,0
+853,French,Physics,Algebra,Aero Engineering,Business,Social Science,1,0
+854,Aero Engineering,History,Business,Political Science,Physics,Optimization,0,0
+855,Optimization,Astro Engineering,Physics,Business,Social Science,English,1,0
+856,Astro Engineering,French,English,Algebra,History,Chinese,1,0
+857,Biology,English,Astro Engineering,Chemistry,Optimization,Aero Engineering,0,0
+858,Algebra,Astro Engineering,Business,Political Science,Chorus1,Chorus2,0,1
+859,Political Science,Optimization,Biology,History,Astro Engineering,English,0,0
+860,Chemistry,Chinese,History,English,Optimization,Business,0,0
+861,Business,Optimization,Political Science,History,Algebra,Astro Engineering,0,0
+862,Astro Engineering,Physics,Aero Engineering,Machine Learning,Chorus1,Chorus2,0,1
+863,Spanish,Machine Learning,Aero Engineering,Political Science,Chorus1,Chorus2,0,1
+864,French,Chemistry,English,Spanish,Social Science,Physics,0,0
+865,Algebra,Optimization,Astro Engineering,Chemistry,Chorus1,Chorus2,0,1
+866,English,Political Science,Algebra,History,Optimization,French,1,0
+867,French,Business,Aero Engineering,Astro Engineering,Algebra,Optimization,1,0
+868,History,Machine Learning,Physics,Biology,Aero Engineering,Political Science,0,0
+869,Astro Engineering,English,Physics,Chinese,Optimization,History,0,0
+870,Aero Engineering,English,Algebra,Business,Physics,History,0,0
+871,History,Business,Physics,Machine Learning,Chinese,Optimization,0,0
+872,Political Science,Biology,Algebra,Aero Engineering,Chorus1,Chorus2,0,1
+873,Chinese,Social Science,French,Physics,History,Chemistry,0,0
+874,Astro Engineering,Physics,History,Spanish,Biology,Political Science,0,0
+875,Chemistry,French,Astro Engineering,Biology,Algebra,Political Science,0,0
+876,Business,Optimization,Machine Learning,Social Science,History,Spanish,0,0
+877,History,Machine Learning,Chemistry,Astro Engineering,Chorus1,Chorus2,0,1
+878,French,Physics,Aero Engineering,Optimization,Social Science,History,1,0
+879,Chemistry,Physics,History,Aero Engineering,Spanish,Machine Learning,0,0
+880,Chemistry,French,Biology,Spanish,History,Algebra,0,0
+881,Astro Engineering,History,Physics,Social Science,Chemistry,English,0,0
+882,Algebra,Machine Learning,Political Science,English,Chorus1,Chorus2,0,1
+883,Physics,Astro Engineering,Algebra,Machine Learning,Chemistry,French,1,0
+884,Machine Learning,Algebra,Astro Engineering,Physics,Chorus1,Chorus2,0,1
+885,English,French,Machine Learning,Biology,Optimization,Chinese,0,0
+886,Astro Engineering,Chemistry,Business,Political Science,Physics,Social Science,1,0
+887,Political Science,Business,Astro Engineering,Chinese,French,Optimization,0,0
+888,Optimization,Machine Learning,Astro Engineering,Chinese,Business,Social Science,0,0
+889,Aero Engineering,Social Science,Political Science,Algebra,English,Astro Engineering,0,0
+890,Political Science,Astro Engineering,Social Science,English,Chorus1,Chorus2,0,1
+891,Political Science,Astro Engineering,Biology,History,Spanish,Algebra,0,0
+892,Algebra,Biology,Political Science,Social Science,French,English,0,0
+893,Optimization,Chinese,French,Political Science,Machine Learning,Social Science,0,0
+894,Spanish,Social Science,History,Business,Chorus1,Chorus2,0,1
+895,Business,Aero Engineering,Optimization,French,Chemistry,Algebra,0,0
+896,Social Science,Business,Biology,Algebra,Machine Learning,Aero Engineering,0,0
+897,Physics,Chinese,Political Science,Biology,Astro Engineering,Business,1,0
+898,Biology,Chinese,Algebra,Physics,Spanish,Political Science,0,0
+899,Spanish,Machine Learning,Aero Engineering,Biology,Political Science,Optimization,0,0
+900,Chemistry,Spanish,History,Business,Chorus1,Chorus2,0,1
+901,Aero Engineering,French,Business,English,Machine Learning,Social Science,1,0
+902,Social Science,History,Chemistry,Spanish,Machine Learning,English,1,0
+903,Algebra,Biology,Business,History,Chorus1,Chorus2,0,1
+904,Biology,Physics,Spanish,Aero Engineering,Chinese,History,0,0
+905,Optimization,Astro Engineering,History,Machine Learning,Chemistry,French,1,0
+906,Biology,Social Science,French,Chemistry,Political Science,Business,1,0
+907,Algebra,Machine Learning,Chinese,Social Science,Spanish,Chemistry,0,0
+908,History,Chemistry,Social Science,Spanish,Chinese,Optimization,0,0
+909,Chinese,Business,Biology,History,French,Spanish,0,0
+910,Biology,Social Science,Physics,History,English,Machine Learning,0,0
+911,Spanish,Chinese,Optimization,Algebra,French,Chemistry,0,0
+912,Biology,Business,Chinese,Physics,Chemistry,Aero Engineering,0,0
+913,Astro Engineering,Chinese,Optimization,Business,Chorus1,Chorus2,0,1
+914,French,Social Science,Chemistry,History,Chinese,Astro Engineering,0,0
+915,Algebra,Optimization,Business,French,Physics,Social Science,0,0
+916,History,Physics,Biology,French,Business,Political Science,0,0
+917,Chinese,History,Aero Engineering,Social Science,Chorus1,Chorus2,0,1
+918,Social Science,Machine Learning,Biology,Aero Engineering,Political Science,Business,0,0
+919,Biology,Chinese,Physics,French,Algebra,Aero Engineering,0,0
+920,History,Chinese,Spanish,Machine Learning,Algebra,Optimization,0,0
+921,Political Science,Physics,History,Optimization,Chemistry,English,1,0
+922,Algebra,Social Science,Machine Learning,Biology,French,English,1,0
+923,Algebra,Astro Engineering,History,Chinese,Physics,Chemistry,0,0
+924,Chemistry,Aero Engineering,History,Business,Chinese,Biology,0,0
+925,Aero Engineering,Biology,Optimization,Chinese,Chorus1,Chorus2,0,1
+926,Physics,Biology,Spanish,Political Science,English,Chinese,0,0
+927,Machine Learning,History,Astro Engineering,Physics,English,Chemistry,1,0
+928,Aero Engineering,Spanish,History,Business,Chorus1,Chorus2,0,1
+929,Political Science,Optimization,Astro Engineering,Algebra,English,Business,1,0
+930,Aero Engineering,Biology,Social Science,Machine Learning,Business,Optimization,1,0
+931,Biology,Optimization,Business,Chinese,Chorus1,Chorus2,0,1
+932,Business,Machine Learning,History,Physics,Chorus1,Chorus2,0,1
+933,Physics,Algebra,English,Social Science,French,Spanish,0,0
+934,Machine Learning,Spanish,Social Science,Business,Chemistry,Aero Engineering,0,0
+935,Chemistry,Business,Physics,Chinese,English,French,0,0
+936,Physics,Spanish,French,Aero Engineering,History,Optimization,0,0
+937,Spanish,Chinese,French,Physics,Chorus1,Chorus2,0,1
+938,Astro Engineering,Aero Engineering,Social Science,Biology,Optimization,Spanish,0,0
+939,Political Science,French,Chinese,History,Aero Engineering,Physics,1,0
+940,Astro Engineering,Algebra,English,Political Science,Chorus1,Chorus2,0,1
+941,Physics,History,Chinese,Spanish,French,Aero Engineering,0,0
+942,Astro Engineering,Chemistry,Chinese,Physics,Chorus1,Chorus2,0,1
+943,Business,French,Physics,Aero Engineering,Chorus1,Chorus2,0,1
+944,Optimization,Biology,Aero Engineering,French,English,Spanish,1,0
+945,French,Social Science,Business,Biology,Aero Engineering,Political Science,0,0
+946,Chinese,Algebra,Machine Learning,Optimization,English,Aero Engineering,0,0
+947,Chemistry,Chinese,Machine Learning,Social Science,Astro Engineering,Business,0,0
+948,Business,Physics,Optimization,French,Machine Learning,Biology,0,0
+949,Physics,Optimization,Astro Engineering,French,Machine Learning,Algebra,1,0
+950,Chinese,Algebra,Aero Engineering,Chemistry,Chorus1,Chorus2,0,1
+951,Business,Astro Engineering,Physics,Social Science,Chorus1,Chorus2,0,1
+952,Biology,Physics,Astro Engineering,Political Science,Spanish,Machine Learning,1,0
+953,Political Science,Chemistry,Machine Learning,French,Chorus1,Chorus2,0,1
+954,Political Science,Physics,Social Science,Biology,Aero Engineering,Astro Engineering,0,0
+955,History,Spanish,Optimization,Machine Learning,French,Social Science,0,0
+956,Astro Engineering,Social Science,Physics,Algebra,Chorus1,Chorus2,0,1
+957,Spanish,Optimization,Aero Engineering,Social Science,Physics,Biology,0,0
+958,Social Science,Astro Engineering,French,Aero Engineering,Chorus1,Chorus2,0,1
+959,Optimization,Chemistry,Political Science,Aero Engineering,Astro Engineering,Business,0,0
+960,Optimization,Physics,Machine Learning,Political Science,Aero Engineering,Biology,0,0
+961,Chemistry,Spanish,Social Science,Optimization,Aero Engineering,Astro Engineering,1,0
+962,Social Science,Spanish,History,Business,Optimization,Algebra,0,0
+963,Business,Biology,Algebra,Aero Engineering,Optimization,Machine Learning,0,0
+964,Chinese,Aero Engineering,Machine Learning,Biology,Chemistry,Political Science,1,0
+965,Biology,Algebra,Chemistry,Spanish,Chinese,Physics,0,0
+966,Social Science,Machine Learning,French,Business,Chorus1,Chorus2,0,1
+967,Business,Physics,English,Chinese,Aero Engineering,Algebra,0,0
+968,Physics,Aero Engineering,Business,Social Science,Spanish,Political Science,0,0
+969,Optimization,Spanish,Aero Engineering,French,Chorus1,Chorus2,0,1
+970,Aero Engineering,Chinese,Machine Learning,History,French,Spanish,0,0
+971,Optimization,Aero Engineering,English,Physics,Chorus1,Chorus2,0,1
+972,History,Business,Spanish,Physics,English,Machine Learning,0,0
+973,French,Social Science,Biology,Optimization,Political Science,Algebra,0,0
+974,Political Science,Aero Engineering,Optimization,Social Science,Physics,Spanish,0,0
+975,Algebra,Social Science,Spanish,English,Chorus1,Chorus2,0,1
+976,Political Science,Chinese,Business,Spanish,Chorus1,Chorus2,0,1
+977,Astro Engineering,Spanish,Machine Learning,English,Biology,Algebra,0,0
+978,Algebra,Chinese,Chemistry,French,Chorus1,Chorus2,0,1
+979,Optimization,Aero Engineering,Algebra,History,Business,Astro Engineering,1,0
+980,Political Science,Aero Engineering,Biology,Social Science,Chorus1,Chorus2,0,1
+981,Algebra,History,Social Science,Chinese,Astro Engineering,Aero Engineering,0,0
+982,English,Social Science,History,Optimization,Political Science,Chinese,1,0
+983,Machine Learning,History,Chinese,English,Biology,Algebra,0,0
+984,Biology,Chemistry,Political Science,Astro Engineering,Physics,Aero Engineering,0,0
+985,Political Science,Optimization,Biology,English,Chorus1,Chorus2,0,1
+986,Biology,Machine Learning,Social Science,Astro Engineering,Business,Algebra,0,0
+987,Political Science,Business,Chinese,English,Aero Engineering,Physics,0,0
+988,English,Physics,Optimization,Biology,Chorus1,Chorus2,0,1
+989,Astro Engineering,Physics,Machine Learning,Biology,French,Chemistry,0,0
+990,Aero Engineering,Chemistry,English,Business,Social Science,History,1,0
+991,Social Science,Aero Engineering,Business,Spanish,Physics,French,0,0
+992,Astro Engineering,Chemistry,History,Political Science,Spanish,Social Science,1,0
+993,Political Science,Aero Engineering,Biology,History,Chorus1,Chorus2,0,1
+994,Spanish,Aero Engineering,Optimization,Business,Algebra,Chemistry,1,0
+995,Spanish,French,Biology,History,Chorus1,Chorus2,0,1
+996,Aero Engineering,Machine Learning,Social Science,French,Business,Astro Engineering,0,0
+997,Social Science,English,Chinese,French,Business,Aero Engineering,0,0
+998,Spanish,English,Aero Engineering,Political Science,Chorus1,Chorus2,0,1
+999,Chemistry,Business,Optimization,History,Machine Learning,Aero Engineering,0,0

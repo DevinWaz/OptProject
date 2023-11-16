@@ -1,0 +1,17 @@
+,Class,PeriodsA,PeriodsB
+0,History,"[5, 2, 3]","[0, 4]"
+1,Biology,"[3, 2]","[6, 4]"
+2,Chemistry,"[5, 2]","[6, 0, 7, 2]"
+3,Physics,"[5, 6, 0, 4]","[7, 5]"
+4,English,[],"[5, 7]"
+5,Optimization,"[5, 4]","[3, 0, 1, 7]"
+6,Machine Learning,"[7, 6, 0, 4]",[]
+7,Business,"[0, 2, 5, 6]",[]
+8,Astro Engineering,"[4, 0, 7]","[4, 0, 5]"
+9,Aero Engineering,"[7, 6, 2, 4]",[]
+10,Political Science,"[6, 7]","[0, 3, 4]"
+11,Social Science,[],"[0, 3, 1]"
+12,Chinese,"[3, 4, 1]","[1, 0, 2, 7]"
+13,French,"[6, 7, 2]",[]
+14,Spanish,"[2, 1, 4]",[]
+15,Algebra,"[3, 1, 0]","[7, 1]"
